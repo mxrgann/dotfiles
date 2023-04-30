@@ -1,0 +1,32 @@
+DesktopBackgroundCenter = 1
+DesktopBackgroundScaled = 1
+DesktopBackgroundImage = "/home/moe/Pictures/wallpapers/sunset1.jpg"
+
+QuickSwitchAllIcons = 0
+QuickSwitchSmallWindow = 1
+
+ShowWorkspaceStatusAfterSwitch = 1
+
+TaskBarShowWindows = 1
+TaskBatShowTray = 0
+TaskBarDoubleHeight = 0
+TaskBarShowShowDesktopButton = 0
+TaskBarShowWindowListMenu = 0
+TaskBarShowWindowIcons = 0
+TaskBarWorkspacesLeft = 0
+TaskBarWorkspacesTop = 1
+TaskBarShowMailboxStatus = 0
+TaskBarShowNetStatus = 0
+TaskBarShowCPUStatus = 0
+TaskBarShowMEMStatus = 0
+TaskBarShowAPMStatus = 1
+TaskBarShowAPMAuto = 0
+TaskBarCPUSamples = 10
+TaskBarMEMSamples = 10
+
+TimeFormat = "%H.%M.%S"
+
+PagerShowPreview = 0
+
+ConfirmLogout = 0
+

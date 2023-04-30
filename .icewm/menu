@@ -1,0 +1,20 @@
+prog "Alacritty" - alacritty
+prog "Firefox" - firefox
+prog "Htop" - alacritty -e htop
+
+menu "Audio" folder {
+    prog "Alsamixer" - alacritty -e alsamixer
+    prog "Audacious" - audacious
+}
+
+menu "Development" folder {
+    prog "Godot" - godot
+    prog "NeoVim" - alacritty -e nvim
+}
+
+menu "Graphics" folder {
+    prog "GNU Image Manipulation Program" - gimp
+    prog "Inkscape" - inkscape
+}
+
+prog "Info" - alacritty -e info
